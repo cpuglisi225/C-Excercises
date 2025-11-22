@@ -1,3 +1,20 @@
+/* 07/111/2025
+ *  1. Somma degli elementi [SUM]
+ *  Dato un array di n numeri interi, calcolare e stampare la somma di tutti gli elementi.
+ *  2. Media aritmetica  [AVERAGE]
+ *  Calcolare la media dei valori contenuti in un array.
+ *  3. Valore massimo e minimo  [MAX/min]
+ *  Trovare e stampare il valore massimo e minimo dell'array.
+ *  4. Conta di numeri pari e dispari  [ODD/EVEN]
+ *  Dato un array di interi, contare quanti sono pari e quanti sono dispari.
+ *  5. Ricerca di un elemento  [FIND]
+ *  Chiedere un numero all'utente e verificare se è presente nell'array.
+ *  6. Inversione dell'array  [REVERSE]
+ *  Stampare gli elementi dell'array in ordine inverso.
+ *  7. Somma degli elementi in posizione pari  [SUM EVEN]
+ *  Calcolare la somma dei valori che si trovano in posizioni pari (indice 0, 2, 4, ...).
+ */
+
 #include <stdio.h>
 
 #define N 10 //Array lenght 
@@ -95,3 +112,4 @@ int main(){
 	printf("SUM EVEN INDEXES: %d", sum_even);
 	
 }
+
