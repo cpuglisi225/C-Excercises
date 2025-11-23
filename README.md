@@ -32,7 +32,7 @@ Raccolta di esercizi assegnati.
 - [Selezione del giorno della settimana attraverso l'impiego del costrutto switch](day_selection_switch.c)
 - [Prototipo del menù di una calcolatrice](interactive_calc_menu.c)
 - [Acquisizione di username e password secondo requisiti di lunghezza e caratteri consentiti](username_password_validation.c)
-- [Acquisizione di Nome/Cognome/Stipendio senza gestione di un input maggiore del consentito](struct_lavoratore_01.c)
+- [Acquisizione di Nome/Cognome/Stipendio senza gestione di un input maggiore del consentito](struct_lavoratore_v1.c)
 - [Acquisizione di Nome/Cognome/Stipendio con gestione di un input maggiore del consentito](struct_lavoratore_v2.c)
 - [Promozione o bocciatura sulla base della media dei voti e sul voto di condotta](struct_studente_condotta.c)
 - [Promozione o bocciatura sulla base dei voti di ciascun alunno, con verifica dell'input  ](voti_alunni_con_validazione.c)
