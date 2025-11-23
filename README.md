@@ -3,4 +3,12 @@
 
 Raccolta di esercizi assegnati. 
 ### Indice 
-TBD
+<ul>
+  <li>[arrayc](./operations_on_arrays.c)
+  </li>
+  <li>[]()</li>
+  <li>[]()</li>
+  <li>[]()</li>
+  <li>[]()</li>
+
+</ul>
